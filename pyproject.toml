@@ -8,6 +8,9 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "keras (>=3.11.3,<4.0.0)",
+    "tensorflow (>=2.20.0,<3.0.0)",
+    "matplotlib (>=3.10.6,<4.0.0)"
 ]
 
 
